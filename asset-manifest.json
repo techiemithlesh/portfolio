@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techiemithlesh/portfolio.git/static/css/main.2a43bf91.css",
+    "main.js": "/techiemithlesh/portfolio.git/static/js/main.cd778e2f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/techiemithlesh/portfolio.git/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/mithlesh.png": "/techiemithlesh/portfolio.git/static/media/mithlesh.b8079fb7884e07c0dfde.png",
+    "index.html": "/techiemithlesh/portfolio.git/index.html",
+    "main.2a43bf91.css.map": "/techiemithlesh/portfolio.git/static/css/main.2a43bf91.css.map",
+    "main.cd778e2f.js.map": "/techiemithlesh/portfolio.git/static/js/main.cd778e2f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/techiemithlesh/portfolio.git/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a43bf91.css",
+    "static/js/main.cd778e2f.js"
+  ]
+}
